@@ -1,3 +1,31 @@
+0x00. AirBnB clone - The console
+Group project
+Python
+OOP
+ Weight: 5
+ Project to be done in teams of 2 people (your team: Ayanda Sikhosana Sikhosana, Timan Opiyo)
+ Project over - took place from Mar 4, 2024 6:00 AM to Mar 11, 2024 6:00 AM
+ Manual QA review was done on Mar 20, 2024 11:35 AM
+ An auto review will be launched at the deadline
+In a nutshell…
+Contribution: 100.0%
+Manual QA review: 0.0/48 mandatory
+Auto QA review: 0.0/302 mandatory & 0.0/233 optional
+Altogether:  0.0%
+Mandatory: 0.0%
+Optional: 0.0%
+Contribution: 100.0%
+Calculation:  100.0% * (0.0% + (0.0% * 0.0%) )  == 0.0%
+Overall comment:
+Project was failed automatically.
+
+Concepts
+For this project, we expect you to look at these concepts:
+
+Python packages
+AirBnB clone
+
+
 Background Context
 Welcome to the AirBnB clone project!
 Before starting, please read the AirBnB concept page.
@@ -84,5 +112,3 @@ All your functions (inside and outside a class) should have a documentation (pyt
 We strongly encourage you to work together on test cases, so that you don’t miss any edge case
 GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
-
-More Info
